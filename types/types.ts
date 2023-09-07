@@ -1,0 +1,6 @@
+interface Query {
+  hello: string;
+}
+ 
+
+
